@@ -51,6 +51,8 @@ li {
     color: #43484D;
     text-indent: -1em;
     padding-left: 1em;
+    word-break: keep-all;
+    overflow-wrap: anywhere;
 }
 
 
